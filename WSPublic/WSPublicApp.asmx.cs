@@ -147,7 +147,7 @@ namespace WSPublic
             catch (Exception e)
             {
 
-                return "Este ID de cliente no cuenta con prestamos en curso"; ;
+                return "Este ID de cliente no cuenta con prestamos en curso"; 
             }
         }
     }
